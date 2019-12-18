@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_small">14sp</dimen>
+    <dimen name="txt_midium">16sp</dimen>
+
+    <dimen name="spacing">4dp</dimen>
+    <dimen name="mg_10">10dp</dimen>
+    <dimen name="cover_height">180dp</dimen>
+</resources>
